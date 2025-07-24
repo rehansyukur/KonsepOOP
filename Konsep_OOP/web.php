@@ -15,4 +15,3 @@ class Product
 
 $product1 = new Product('Smartphone', 5000000, 'Smartphone terbaru dengan kamera berkualitas tinggi');
 $product2 = new Product('Realme', 4000000, 'Smartphone terbaru dengan build quality terbaik');
-$product2 = new Product('Realme', 4000000, 'Smartphone terbaru dengan build quality terbaik');
